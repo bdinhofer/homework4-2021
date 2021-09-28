@@ -32,6 +32,8 @@ body{
   font-family: 'Andika', 'sans-serif';
   background: url("../images/pigeon-background.JPEG") no-repeat center, #DDDDDD;
   background-size: cover;
+  background-repeat: no-repeat;
+
   /*Req 1*/
 }
 
@@ -76,6 +78,7 @@ td{
   text-align: center;
   text-transform: uppercase;
   background-color: #7e0825;
+  vertical-align: middle;
 }
 
 .rowhead{
